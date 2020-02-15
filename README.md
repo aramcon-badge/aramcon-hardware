@@ -41,7 +41,7 @@ All PCBs were designed using KiCad.
 | P0.10 | Pushbutton         | Action   |
 | P0.12 | E-Paper            | D/C      |
 | P0.13 | Extension Slot     | D3 Pin   |
-| P0.15 | Extension Slot     | D3 Pin   |
+| P0.15 | Extension Slot     | D1 Pin   |
 | P0.17 | Vibrator           | Vibrate  |
 | P0.20 | Serial Flash       | SO/IO1   |
 | P0.22 | Serial Flash       | SI/IO0   |
