@@ -3132,7 +3132,7 @@
   )
 
   (module badge:symbol-lipo locked (layer F.Cu) (tedit 0) (tstamp 5E0E3460)
-    (at 266 151.45)
+    (at 266 135.3)
     (attr virtual)
     (fp_text reference SYM2 (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -3221,7 +3221,7 @@
   )
 
   (module badge:symbol-aaa locked (layer F.Cu) (tedit 0) (tstamp 5E0E3076)
-    (at 266 135.3)
+    (at 266 151.45)
     (attr virtual)
     (fp_text reference SYM1 (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
